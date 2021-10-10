@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- :pushpin: I’m currently enrolled in Data Sience Immersive Course :books:.
+- 👨‍🎓 I’m currently enrolled in Data Sience Immersive Course .
 - 🌱 I’m currently learnig about R, Python, ML, and DL.
-- 👨‍🎓 I like learning new things every day. :telescope:
+- :books: I like learning new things every day. :telescope:
 - :bulb: I enjoy sharing the knowledge.
 
 
