@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently enrolled in Data Sience Immersive Course. :books:
+- 🔭 I’m currently enrolled in Data Sience Immersive Course:books:.
 - 🌱 I’m currently learnig about R, Python, ML, and DL.
+- 👨‍🎓 I like learning new things every day. 
+- :bulb: I enjoy sharing the knowledge.
+
 
 ### Hi there 👋
 
