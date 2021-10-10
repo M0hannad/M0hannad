@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I’m currently enrolled in ```Data Sience``` Immersive Course.
 - 🌱 I’m currently learnig about ```R```, ```Python```, ```ML```, and ```DL```.
-- :telescope: I like learning and dicovering new things every day. 
+- 🔭 I like learning and dicovering new things every day. 
 - 🍁 I enjoy sharing the knowledge.
 
 
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
