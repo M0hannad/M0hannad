@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently enrolled in Data Sience Immersive Course.
+- 🔭 I’m currently enrolled in Data Sience Immersive Course. :books:
 - 🌱 I’m currently learnig about R, Python, ML, and DL.
 
 ### Hi there 👋
