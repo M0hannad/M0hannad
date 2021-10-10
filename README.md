@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m currently enrolled in Data Sience Immersive Course .
 - 🌱 I’m currently learnig about R, Python, ML, and DL.
-- :books: I like learning new things every day. :telescope:
+- :telescope: I like learning new things every day. 
 - :bulb: I enjoy sharing the knowledge.
 
 
