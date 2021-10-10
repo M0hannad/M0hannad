@@ -1,9 +1,10 @@
-# Hi there 👋
+## Hi there 👋
 
-## Welcome to my GitHub profile!:octocat:
+# Welcome to my GitHub profile!:octocat:
 
 
 
+### About me:
 
 - 👨‍🎓 I’m currently enrolled in ```Data Sience``` Immersive Course.
 - 🌱 I’m currently learnig about ```R```, ```Python```, ```ML```, and ```DL```.
