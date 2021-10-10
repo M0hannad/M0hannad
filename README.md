@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to my GitHub profile!:octocat:
+# Welcome to my GitHub profile! :octocat:	
 
 
 
