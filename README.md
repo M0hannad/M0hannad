@@ -6,7 +6,7 @@
 
 ### About me:
 
-- 👨‍🎓 I’m currently educating myself in ```Data Sience``` field.
+- 👨‍🎓 I’m currently educating myself in ```Data Analytics``` field.
 - 📚 I’m learnig about ```R```, ```Python```, ```ML```, and ```DL```.
 - 🔭 I like expanding my knowledge and dicovering new things every day. 
 - 🌱 I enjoy sharing the knowledge.
