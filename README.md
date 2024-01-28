@@ -6,7 +6,7 @@
 
 ### About me:
 
-- 👨‍🎓 I’m currently educating myself in ```Data Analytics``` field.
+- 👨‍🎓 I’m currently educating myself in ```Data Analytics``` & ```Data Management``` field.
 - 📚 I’m learnig about ```Python```, ```SQL```, ```Power BI```, and ```ML```.
 - 🔭 I like expanding my knowledge and dicovering new things every day. 
 - 🌱 I enjoy sharing the knowledge.
